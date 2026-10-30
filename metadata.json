@@ -1,0 +1,6 @@
+{
+  "name": "InsightFlow - AI Business Intelligence Copilot",
+  "description": "Executive AI business intelligence platform for SaaS, e-commerce, and enterprise datasets with revenue forecasting and natural language insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
